@@ -10,7 +10,7 @@ The dataset consists of reviews with the following labels:
 - 5 (positive)
 - not_relevant
 
-The dataset is provided in the attached file: [`dataset_sentiment.csv`](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/23568731/ab9b56c6-5915-45a2-a8a8-8b4216a7018d/dataset_sentiment.csv).
+The dataset provided above.
 
 ### Methodology
 
@@ -42,7 +42,7 @@ The results are presented in tables for multi-class classification, comparing th
 
 ### Code
 
-The code is implemented in Python using scikit-learn and is provided in the attached Jupyter Notebook file: [`SentimentAnalysis.ipynb`](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/23568731/0714e5e0-8f60-4d7c-9187-c2b4d0c3b1ef/SentimentAnalysis.ipynb).
+The code is implemented in Python using scikit-learn and is provided above as Jupyter Notebook file.
 
 ### Usage
 
