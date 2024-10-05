@@ -1,6 +1,6 @@
 # SentimentAnalysis
 
-This project aims to build sentiment classifiers using bag of words and n-gram models for a dataset containing reviews. The reviews are labeled as 1 (negative), 3 (neutral), 5 (positive), or not_relevant. The goal is to perform multi-class classification and accurately categorize the reviews into one of the four classes.
+The primary aim of thia project was to build sentiment classifiers using bag of words and n-gram models for a dataset containing reviews. The reviews are labeled as 1 (negative), 3 (neutral), 5 (positive), or not_relevant. The goal is to perform multi-class classification and accurately categorize the reviews into one of the four classes.
 
 ### Dataset
 
